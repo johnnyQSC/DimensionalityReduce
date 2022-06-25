@@ -1,0 +1,8 @@
+Class,Drink,Rank,Amount,Count
+A,7Up,7,"(100, 200)",300
+B,Sprite,6,"(200, 10)",150
+C,Pepsi,5,"(200, 10)",150
+D,Coke,4,"(400, 100)",300
+E,Cappuccino,3,"(800, 10)",150
+F,Espresso,2,"(800, 10)",150
+G,Latte,1,"(900, 400)",300
